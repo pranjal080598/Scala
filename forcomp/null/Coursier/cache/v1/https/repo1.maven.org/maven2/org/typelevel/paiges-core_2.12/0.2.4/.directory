@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: org/typelevel/paiges-core_2.12/0.2.4</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>org/typelevel/paiges-core_2.12/0.2.4</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="paiges-core_2.12-0.2.4-javadoc.jar" title="paiges-core_2.12-0.2.4-javadoc.jar">paiges-core_2.12-0.2.4-javadoc.jar</a>                2019-08-02 16:17   1172704      
+<a href="paiges-core_2.12-0.2.4-javadoc.jar.asc" title="paiges-core_2.12-0.2.4-javadoc.jar.asc">paiges-core_2.12-0.2.4-javadoc.jar.asc</a>            2019-08-02 16:17       475      
+<a href="paiges-core_2.12-0.2.4-javadoc.jar.asc.md5" title="paiges-core_2.12-0.2.4-javadoc.jar.asc.md5">paiges-core_2.12-0.2.4-javadoc.jar.asc.md5</a>        2019-08-02 16:17        32      
+<a href="paiges-core_2.12-0.2.4-javadoc.jar.asc.sha1" title="paiges-core_2.12-0.2.4-javadoc.jar.asc.sha1">paiges-core_2.12-0.2.4-javadoc.jar.asc.sha1</a>       2019-08-02 16:17        40      
+<a href="paiges-core_2.12-0.2.4-javadoc.jar.md5" title="paiges-core_2.12-0.2.4-javadoc.jar.md5">paiges-core_2.12-0.2.4-javadoc.jar.md5</a>            2019-08-02 16:17        32      
+<a href="paiges-core_2.12-0.2.4-javadoc.jar.sha1" title="paiges-core_2.12-0.2.4-javadoc.jar.sha1">paiges-core_2.12-0.2.4-javadoc.jar.sha1</a>           2019-08-02 16:17        40      
+<a href="paiges-core_2.12-0.2.4-sources.jar" title="paiges-core_2.12-0.2.4-sources.jar">paiges-core_2.12-0.2.4-sources.jar</a>                2019-08-02 16:17     11656      
+<a href="paiges-core_2.12-0.2.4-sources.jar.asc" title="paiges-core_2.12-0.2.4-sources.jar.asc">paiges-core_2.12-0.2.4-sources.jar.asc</a>            2019-08-02 16:17       475      
+<a href="paiges-core_2.12-0.2.4-sources.jar.asc.md5" title="paiges-core_2.12-0.2.4-sources.jar.asc.md5">paiges-core_2.12-0.2.4-sources.jar.asc.md5</a>        2019-08-02 16:17        32      
+<a href="paiges-core_2.12-0.2.4-sources.jar.asc.sha1" title="paiges-core_2.12-0.2.4-sources.jar.asc.sha1">paiges-core_2.12-0.2.4-sources.jar.asc.sha1</a>       2019-08-02 16:17        40      
+<a href="paiges-core_2.12-0.2.4-sources.jar.md5" title="paiges-core_2.12-0.2.4-sources.jar.md5">paiges-core_2.12-0.2.4-sources.jar.md5</a>            2019-08-02 16:17        32      
+<a href="paiges-core_2.12-0.2.4-sources.jar.sha1" title="paiges-core_2.12-0.2.4-sources.jar.sha1">paiges-core_2.12-0.2.4-sources.jar.sha1</a>           2019-08-02 16:17        40      
+<a href="paiges-core_2.12-0.2.4.jar" title="paiges-core_2.12-0.2.4.jar">paiges-core_2.12-0.2.4.jar</a>                        2019-08-02 16:17     86671      
+<a href="paiges-core_2.12-0.2.4.jar.asc" title="paiges-core_2.12-0.2.4.jar.asc">paiges-core_2.12-0.2.4.jar.asc</a>                    2019-08-02 16:17       475      
+<a href="paiges-core_2.12-0.2.4.jar.asc.md5" title="paiges-core_2.12-0.2.4.jar.asc.md5">paiges-core_2.12-0.2.4.jar.asc.md5</a>                2019-08-02 16:17        32      
+<a href="paiges-core_2.12-0.2.4.jar.asc.sha1" title="paiges-core_2.12-0.2.4.jar.asc.sha1">paiges-core_2.12-0.2.4.jar.asc.sha1</a>               2019-08-02 16:17        40      
+<a href="paiges-core_2.12-0.2.4.jar.md5" title="paiges-core_2.12-0.2.4.jar.md5">paiges-core_2.12-0.2.4.jar.md5</a>                    2019-08-02 16:17        32      
+<a href="paiges-core_2.12-0.2.4.jar.sha1" title="paiges-core_2.12-0.2.4.jar.sha1">paiges-core_2.12-0.2.4.jar.sha1</a>                   2019-08-02 16:17        40      
+<a href="paiges-core_2.12-0.2.4.pom" title="paiges-core_2.12-0.2.4.pom">paiges-core_2.12-0.2.4.pom</a>                        2019-08-02 16:17      2544      
+<a href="paiges-core_2.12-0.2.4.pom.asc" title="paiges-core_2.12-0.2.4.pom.asc">paiges-core_2.12-0.2.4.pom.asc</a>                    2019-08-02 16:17       475      
+<a href="paiges-core_2.12-0.2.4.pom.asc.md5" title="paiges-core_2.12-0.2.4.pom.asc.md5">paiges-core_2.12-0.2.4.pom.asc.md5</a>                2019-08-02 16:17        32      
+<a href="paiges-core_2.12-0.2.4.pom.asc.sha1" title="paiges-core_2.12-0.2.4.pom.asc.sha1">paiges-core_2.12-0.2.4.pom.asc.sha1</a>               2019-08-02 16:17        40      
+<a href="paiges-core_2.12-0.2.4.pom.md5" title="paiges-core_2.12-0.2.4.pom.md5">paiges-core_2.12-0.2.4.pom.md5</a>                    2019-08-02 16:17        32      
+<a href="paiges-core_2.12-0.2.4.pom.sha1" title="paiges-core_2.12-0.2.4.pom.sha1">paiges-core_2.12-0.2.4.pom.sha1</a>                   2019-08-02 16:17        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>

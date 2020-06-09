@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: commons-logging/commons-logging/1.1.3</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>commons-logging/commons-logging/1.1.3</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="commons-logging-1.1.3-adapters.jar" title="commons-logging-1.1.3-adapters.jar">commons-logging-1.1.3-adapters.jar</a>                2013-05-16 20:05     27178      
+<a href="commons-logging-1.1.3-adapters.jar.asc" title="commons-logging-1.1.3-adapters.jar.asc">commons-logging-1.1.3-adapters.jar.asc</a>            2013-05-16 20:05       836      
+<a href="commons-logging-1.1.3-adapters.jar.md5" title="commons-logging-1.1.3-adapters.jar.md5">commons-logging-1.1.3-adapters.jar.md5</a>            2013-05-16 20:05        32      
+<a href="commons-logging-1.1.3-adapters.jar.sha1" title="commons-logging-1.1.3-adapters.jar.sha1">commons-logging-1.1.3-adapters.jar.sha1</a>           2013-05-16 20:05        40      
+<a href="commons-logging-1.1.3-api.jar" title="commons-logging-1.1.3-api.jar">commons-logging-1.1.3-api.jar</a>                     2013-05-16 20:05     53151      
+<a href="commons-logging-1.1.3-api.jar.asc" title="commons-logging-1.1.3-api.jar.asc">commons-logging-1.1.3-api.jar.asc</a>                 2013-05-16 20:05       836      
+<a href="commons-logging-1.1.3-api.jar.md5" title="commons-logging-1.1.3-api.jar.md5">commons-logging-1.1.3-api.jar.md5</a>                 2013-05-16 20:05        32      
+<a href="commons-logging-1.1.3-api.jar.sha1" title="commons-logging-1.1.3-api.jar.sha1">commons-logging-1.1.3-api.jar.sha1</a>                2013-05-16 20:05        40      
+<a href="commons-logging-1.1.3-bin.tar.gz" title="commons-logging-1.1.3-bin.tar.gz">commons-logging-1.1.3-bin.tar.gz</a>                  2013-05-16 20:05    737866      
+<a href="commons-logging-1.1.3-bin.tar.gz.asc" title="commons-logging-1.1.3-bin.tar.gz.asc">commons-logging-1.1.3-bin.tar.gz.asc</a>              2013-05-16 20:05       836      
+<a href="commons-logging-1.1.3-bin.tar.gz.md5" title="commons-logging-1.1.3-bin.tar.gz.md5">commons-logging-1.1.3-bin.tar.gz.md5</a>              2013-05-16 20:05        32      
+<a href="commons-logging-1.1.3-bin.tar.gz.sha1" title="commons-logging-1.1.3-bin.tar.gz.sha1">commons-logging-1.1.3-bin.tar.gz.sha1</a>             2013-05-16 20:05        40      
+<a href="commons-logging-1.1.3-bin.zip" title="commons-logging-1.1.3-bin.zip">commons-logging-1.1.3-bin.zip</a>                     2013-05-16 20:05    804116      
+<a href="commons-logging-1.1.3-bin.zip.asc" title="commons-logging-1.1.3-bin.zip.asc">commons-logging-1.1.3-bin.zip.asc</a>                 2013-05-16 20:05       836      
+<a href="commons-logging-1.1.3-bin.zip.md5" title="commons-logging-1.1.3-bin.zip.md5">commons-logging-1.1.3-bin.zip.md5</a>                 2013-05-16 20:05        32      
+<a href="commons-logging-1.1.3-bin.zip.sha1" title="commons-logging-1.1.3-bin.zip.sha1">commons-logging-1.1.3-bin.zip.sha1</a>                2013-05-16 20:05        40      
+<a href="commons-logging-1.1.3-javadoc.jar" title="commons-logging-1.1.3-javadoc.jar">commons-logging-1.1.3-javadoc.jar</a>                 2013-05-16 20:05    158023      
+<a href="commons-logging-1.1.3-javadoc.jar.asc" title="commons-logging-1.1.3-javadoc.jar.asc">commons-logging-1.1.3-javadoc.jar.asc</a>             2013-05-16 20:05       836      
+<a href="commons-logging-1.1.3-javadoc.jar.md5" title="commons-logging-1.1.3-javadoc.jar.md5">commons-logging-1.1.3-javadoc.jar.md5</a>             2013-05-16 20:05        32      
+<a href="commons-logging-1.1.3-javadoc.jar.sha1" title="commons-logging-1.1.3-javadoc.jar.sha1">commons-logging-1.1.3-javadoc.jar.sha1</a>            2013-05-16 20:05        40      
+<a href="commons-logging-1.1.3-sources.jar" title="commons-logging-1.1.3-sources.jar">commons-logging-1.1.3-sources.jar</a>                 2013-05-16 20:05     73915      
+<a href="commons-logging-1.1.3-sources.jar.asc" title="commons-logging-1.1.3-sources.jar.asc">commons-logging-1.1.3-sources.jar.asc</a>             2013-05-16 20:05       836      
+<a href="commons-logging-1.1.3-sources.jar.md5" title="commons-logging-1.1.3-sources.jar.md5">commons-logging-1.1.3-sources.jar.md5</a>             2013-05-16 20:05        32      
+<a href="commons-logging-1.1.3-sources.jar.sha1" title="commons-logging-1.1.3-sources.jar.sha1">commons-logging-1.1.3-sources.jar.sha1</a>            2013-05-16 20:05        40      
+<a href="commons-logging-1.1.3-src.tar.gz" title="commons-logging-1.1.3-src.tar.gz">commons-logging-1.1.3-src.tar.gz</a>                  2013-05-16 20:05    187403      
+<a href="commons-logging-1.1.3-src.tar.gz.asc" title="commons-logging-1.1.3-src.tar.gz.asc">commons-logging-1.1.3-src.tar.gz.asc</a>              2013-05-16 20:05       836      
+<a href="commons-logging-1.1.3-src.tar.gz.md5" title="commons-logging-1.1.3-src.tar.gz.md5">commons-logging-1.1.3-src.tar.gz.md5</a>              2013-05-16 20:05        32      
+<a href="commons-logging-1.1.3-src.tar.gz.sha1" title="commons-logging-1.1.3-src.tar.gz.sha1">commons-logging-1.1.3-src.tar.gz.sha1</a>             2013-05-16 20:05        40      
+<a href="commons-logging-1.1.3-src.zip" title="commons-logging-1.1.3-src.zip">commons-logging-1.1.3-src.zip</a>                     2013-05-16 20:05    291265      
+<a href="commons-logging-1.1.3-src.zip.asc" title="commons-logging-1.1.3-src.zip.asc">commons-logging-1.1.3-src.zip.asc</a>                 2013-05-16 20:05       836      
+<a href="commons-logging-1.1.3-src.zip.md5" title="commons-logging-1.1.3-src.zip.md5">commons-logging-1.1.3-src.zip.md5</a>                 2013-05-16 20:05        32      
+<a href="commons-logging-1.1.3-src.zip.sha1" title="commons-logging-1.1.3-src.zip.sha1">commons-logging-1.1.3-src.zip.sha1</a>                2013-05-16 20:05        40      
+<a href="commons-logging-1.1.3-test-sources.jar" title="commons-logging-1.1.3-test-sources.jar">commons-logging-1.1.3-test-sources.jar</a>            2013-05-16 20:05    105126      
+<a href="commons-logging-1.1.3-test-sources.jar.asc" title="commons-logging-1.1.3-test-sources.jar.asc">commons-logging-1.1.3-test-sources.jar.asc</a>        2013-05-16 20:05       836      
+<a href="commons-logging-1.1.3-test-sources.jar.md5" title="commons-logging-1.1.3-test-sources.jar.md5">commons-logging-1.1.3-test-sources.jar.md5</a>        2013-05-16 20:05        32      
+<a href="commons-logging-1.1.3-test-sources.jar.sha1" title="commons-logging-1.1.3-test-sources.jar.sha1">commons-logging-1.1.3-test-sources.jar.sha1</a>       2013-05-16 20:05        40      
+<a href="commons-logging-1.1.3-tests.jar" title="commons-logging-1.1.3-tests.jar">commons-logging-1.1.3-tests.jar</a>                   2013-05-16 20:05    111806      
+<a href="commons-logging-1.1.3-tests.jar.asc" title="commons-logging-1.1.3-tests.jar.asc">commons-logging-1.1.3-tests.jar.asc</a>               2013-05-16 20:05       836      
+<a href="commons-logging-1.1.3-tests.jar.md5" title="commons-logging-1.1.3-tests.jar.md5">commons-logging-1.1.3-tests.jar.md5</a>               2013-05-16 20:05        32      
+<a href="commons-logging-1.1.3-tests.jar.sha1" title="commons-logging-1.1.3-tests.jar.sha1">commons-logging-1.1.3-tests.jar.sha1</a>              2013-05-16 20:05        40      
+<a href="commons-logging-1.1.3.jar" title="commons-logging-1.1.3.jar">commons-logging-1.1.3.jar</a>                         2013-05-16 20:05     62050      
+<a href="commons-logging-1.1.3.jar.asc" title="commons-logging-1.1.3.jar.asc">commons-logging-1.1.3.jar.asc</a>                     2013-05-16 20:05       836      
+<a href="commons-logging-1.1.3.jar.md5" title="commons-logging-1.1.3.jar.md5">commons-logging-1.1.3.jar.md5</a>                     2013-05-16 20:05        32      
+<a href="commons-logging-1.1.3.jar.sha1" title="commons-logging-1.1.3.jar.sha1">commons-logging-1.1.3.jar.sha1</a>                    2013-05-16 20:05        40      
+<a href="commons-logging-1.1.3.pom" title="commons-logging-1.1.3.pom">commons-logging-1.1.3.pom</a>                         2013-05-16 20:05     18353      
+<a href="commons-logging-1.1.3.pom.asc" title="commons-logging-1.1.3.pom.asc">commons-logging-1.1.3.pom.asc</a>                     2013-05-16 20:05       836      
+<a href="commons-logging-1.1.3.pom.md5" title="commons-logging-1.1.3.pom.md5">commons-logging-1.1.3.pom.md5</a>                     2013-05-16 20:05        32      
+<a href="commons-logging-1.1.3.pom.sha1" title="commons-logging-1.1.3.pom.sha1">commons-logging-1.1.3.pom.sha1</a>                    2013-05-16 20:05        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>

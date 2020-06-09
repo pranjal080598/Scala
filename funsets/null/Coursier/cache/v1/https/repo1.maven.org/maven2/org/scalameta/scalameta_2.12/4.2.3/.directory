@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: org/scalameta/scalameta_2.12/4.2.3</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>org/scalameta/scalameta_2.12/4.2.3</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="scalameta_2.12-4.2.3-javadoc.jar" title="scalameta_2.12-4.2.3-javadoc.jar">scalameta_2.12-4.2.3-javadoc.jar</a>                  2019-08-26 03:11   2758135      
+<a href="scalameta_2.12-4.2.3-javadoc.jar.asc" title="scalameta_2.12-4.2.3-javadoc.jar.asc">scalameta_2.12-4.2.3-javadoc.jar.asc</a>              2019-08-26 03:11       475      
+<a href="scalameta_2.12-4.2.3-javadoc.jar.asc.md5" title="scalameta_2.12-4.2.3-javadoc.jar.asc.md5">scalameta_2.12-4.2.3-javadoc.jar.asc.md5</a>          2019-08-26 03:11        32      
+<a href="scalameta_2.12-4.2.3-javadoc.jar.asc.sha1" title="scalameta_2.12-4.2.3-javadoc.jar.asc.sha1">scalameta_2.12-4.2.3-javadoc.jar.asc.sha1</a>         2019-08-26 03:11        40      
+<a href="scalameta_2.12-4.2.3-javadoc.jar.md5" title="scalameta_2.12-4.2.3-javadoc.jar.md5">scalameta_2.12-4.2.3-javadoc.jar.md5</a>              2019-08-26 03:11        32      
+<a href="scalameta_2.12-4.2.3-javadoc.jar.sha1" title="scalameta_2.12-4.2.3-javadoc.jar.sha1">scalameta_2.12-4.2.3-javadoc.jar.sha1</a>             2019-08-26 03:11        40      
+<a href="scalameta_2.12-4.2.3-sources.jar" title="scalameta_2.12-4.2.3-sources.jar">scalameta_2.12-4.2.3-sources.jar</a>                  2019-08-26 03:11     84300      
+<a href="scalameta_2.12-4.2.3-sources.jar.asc" title="scalameta_2.12-4.2.3-sources.jar.asc">scalameta_2.12-4.2.3-sources.jar.asc</a>              2019-08-26 03:11       475      
+<a href="scalameta_2.12-4.2.3-sources.jar.asc.md5" title="scalameta_2.12-4.2.3-sources.jar.asc.md5">scalameta_2.12-4.2.3-sources.jar.asc.md5</a>          2019-08-26 03:11        32      
+<a href="scalameta_2.12-4.2.3-sources.jar.asc.sha1" title="scalameta_2.12-4.2.3-sources.jar.asc.sha1">scalameta_2.12-4.2.3-sources.jar.asc.sha1</a>         2019-08-26 03:11        40      
+<a href="scalameta_2.12-4.2.3-sources.jar.md5" title="scalameta_2.12-4.2.3-sources.jar.md5">scalameta_2.12-4.2.3-sources.jar.md5</a>              2019-08-26 03:11        32      
+<a href="scalameta_2.12-4.2.3-sources.jar.sha1" title="scalameta_2.12-4.2.3-sources.jar.sha1">scalameta_2.12-4.2.3-sources.jar.sha1</a>             2019-08-26 03:11        40      
+<a href="scalameta_2.12-4.2.3.jar" title="scalameta_2.12-4.2.3.jar">scalameta_2.12-4.2.3.jar</a>                          2019-08-26 03:11    752563      
+<a href="scalameta_2.12-4.2.3.jar.asc" title="scalameta_2.12-4.2.3.jar.asc">scalameta_2.12-4.2.3.jar.asc</a>                      2019-08-26 03:11       475      
+<a href="scalameta_2.12-4.2.3.jar.asc.md5" title="scalameta_2.12-4.2.3.jar.asc.md5">scalameta_2.12-4.2.3.jar.asc.md5</a>                  2019-08-26 03:11        32      
+<a href="scalameta_2.12-4.2.3.jar.asc.sha1" title="scalameta_2.12-4.2.3.jar.asc.sha1">scalameta_2.12-4.2.3.jar.asc.sha1</a>                 2019-08-26 03:11        40      
+<a href="scalameta_2.12-4.2.3.jar.md5" title="scalameta_2.12-4.2.3.jar.md5">scalameta_2.12-4.2.3.jar.md5</a>                      2019-08-26 03:11        32      
+<a href="scalameta_2.12-4.2.3.jar.sha1" title="scalameta_2.12-4.2.3.jar.sha1">scalameta_2.12-4.2.3.jar.sha1</a>                     2019-08-26 03:11        40      
+<a href="scalameta_2.12-4.2.3.pom" title="scalameta_2.12-4.2.3.pom">scalameta_2.12-4.2.3.pom</a>                          2019-08-26 03:11      2943      
+<a href="scalameta_2.12-4.2.3.pom.asc" title="scalameta_2.12-4.2.3.pom.asc">scalameta_2.12-4.2.3.pom.asc</a>                      2019-08-26 03:11       475      
+<a href="scalameta_2.12-4.2.3.pom.asc.md5" title="scalameta_2.12-4.2.3.pom.asc.md5">scalameta_2.12-4.2.3.pom.asc.md5</a>                  2019-08-26 03:11        32      
+<a href="scalameta_2.12-4.2.3.pom.asc.sha1" title="scalameta_2.12-4.2.3.pom.asc.sha1">scalameta_2.12-4.2.3.pom.asc.sha1</a>                 2019-08-26 03:11        40      
+<a href="scalameta_2.12-4.2.3.pom.md5" title="scalameta_2.12-4.2.3.pom.md5">scalameta_2.12-4.2.3.pom.md5</a>                      2019-08-26 03:11        32      
+<a href="scalameta_2.12-4.2.3.pom.sha1" title="scalameta_2.12-4.2.3.pom.sha1">scalameta_2.12-4.2.3.pom.sha1</a>                     2019-08-26 03:11        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>

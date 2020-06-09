@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: ch/qos/logback/logback-classic/1.2.3</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>ch/qos/logback/logback-classic/1.2.3</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="logback-classic-1.2.3-javadoc.jar" title="logback-classic-1.2.3-javadoc.jar">logback-classic-1.2.3-javadoc.jar</a>                 2017-03-31 19:27   1045814      
+<a href="logback-classic-1.2.3-javadoc.jar.asc" title="logback-classic-1.2.3-javadoc.jar.asc">logback-classic-1.2.3-javadoc.jar.asc</a>             2017-03-31 19:27       455      
+<a href="logback-classic-1.2.3-javadoc.jar.md5" title="logback-classic-1.2.3-javadoc.jar.md5">logback-classic-1.2.3-javadoc.jar.md5</a>             2017-03-31 19:27        32      
+<a href="logback-classic-1.2.3-javadoc.jar.sha1" title="logback-classic-1.2.3-javadoc.jar.sha1">logback-classic-1.2.3-javadoc.jar.sha1</a>            2017-03-31 19:27        40      
+<a href="logback-classic-1.2.3-sources.jar" title="logback-classic-1.2.3-sources.jar">logback-classic-1.2.3-sources.jar</a>                 2017-03-31 19:27    230201      
+<a href="logback-classic-1.2.3-sources.jar.asc" title="logback-classic-1.2.3-sources.jar.asc">logback-classic-1.2.3-sources.jar.asc</a>             2017-03-31 19:27       455      
+<a href="logback-classic-1.2.3-sources.jar.md5" title="logback-classic-1.2.3-sources.jar.md5">logback-classic-1.2.3-sources.jar.md5</a>             2017-03-31 19:27        32      
+<a href="logback-classic-1.2.3-sources.jar.sha1" title="logback-classic-1.2.3-sources.jar.sha1">logback-classic-1.2.3-sources.jar.sha1</a>            2017-03-31 19:27        40      
+<a href="logback-classic-1.2.3-test-javadoc.jar" title="logback-classic-1.2.3-test-javadoc.jar">logback-classic-1.2.3-test-javadoc.jar</a>            2017-03-31 19:27   1349229      
+<a href="logback-classic-1.2.3-test-javadoc.jar.asc" title="logback-classic-1.2.3-test-javadoc.jar.asc">logback-classic-1.2.3-test-javadoc.jar.asc</a>        2017-03-31 19:27       455      
+<a href="logback-classic-1.2.3-test-javadoc.jar.md5" title="logback-classic-1.2.3-test-javadoc.jar.md5">logback-classic-1.2.3-test-javadoc.jar.md5</a>        2017-03-31 19:27        32      
+<a href="logback-classic-1.2.3-test-javadoc.jar.sha1" title="logback-classic-1.2.3-test-javadoc.jar.sha1">logback-classic-1.2.3-test-javadoc.jar.sha1</a>       2017-03-31 19:27        40      
+<a href="logback-classic-1.2.3-test-sources.jar" title="logback-classic-1.2.3-test-sources.jar">logback-classic-1.2.3-test-sources.jar</a>            2017-03-31 19:27    325304      
+<a href="logback-classic-1.2.3-test-sources.jar.asc" title="logback-classic-1.2.3-test-sources.jar.asc">logback-classic-1.2.3-test-sources.jar.asc</a>        2017-03-31 19:27       455      
+<a href="logback-classic-1.2.3-test-sources.jar.md5" title="logback-classic-1.2.3-test-sources.jar.md5">logback-classic-1.2.3-test-sources.jar.md5</a>        2017-03-31 19:27        32      
+<a href="logback-classic-1.2.3-test-sources.jar.sha1" title="logback-classic-1.2.3-test-sources.jar.sha1">logback-classic-1.2.3-test-sources.jar.sha1</a>       2017-03-31 19:27        40      
+<a href="logback-classic-1.2.3-tests.jar" title="logback-classic-1.2.3-tests.jar">logback-classic-1.2.3-tests.jar</a>                   2017-03-31 19:27    510198      
+<a href="logback-classic-1.2.3-tests.jar.asc" title="logback-classic-1.2.3-tests.jar.asc">logback-classic-1.2.3-tests.jar.asc</a>               2017-03-31 19:27       455      
+<a href="logback-classic-1.2.3-tests.jar.md5" title="logback-classic-1.2.3-tests.jar.md5">logback-classic-1.2.3-tests.jar.md5</a>               2017-03-31 19:27        32      
+<a href="logback-classic-1.2.3-tests.jar.sha1" title="logback-classic-1.2.3-tests.jar.sha1">logback-classic-1.2.3-tests.jar.sha1</a>              2017-03-31 19:27        40      
+<a href="logback-classic-1.2.3.jar" title="logback-classic-1.2.3.jar">logback-classic-1.2.3.jar</a>                         2017-03-31 19:27    290339      
+<a href="logback-classic-1.2.3.jar.asc" title="logback-classic-1.2.3.jar.asc">logback-classic-1.2.3.jar.asc</a>                     2017-03-31 19:27       455      
+<a href="logback-classic-1.2.3.jar.md5" title="logback-classic-1.2.3.jar.md5">logback-classic-1.2.3.jar.md5</a>                     2017-03-31 19:27        32      
+<a href="logback-classic-1.2.3.jar.sha1" title="logback-classic-1.2.3.jar.sha1">logback-classic-1.2.3.jar.sha1</a>                    2017-03-31 19:27        40      
+<a href="logback-classic-1.2.3.pom" title="logback-classic-1.2.3.pom">logback-classic-1.2.3.pom</a>                         2017-03-31 19:27     13081      
+<a href="logback-classic-1.2.3.pom.asc" title="logback-classic-1.2.3.pom.asc">logback-classic-1.2.3.pom.asc</a>                     2017-03-31 19:27       455      
+<a href="logback-classic-1.2.3.pom.md5" title="logback-classic-1.2.3.pom.md5">logback-classic-1.2.3.pom.md5</a>                     2017-03-31 19:27        32      
+<a href="logback-classic-1.2.3.pom.sha1" title="logback-classic-1.2.3.pom.sha1">logback-classic-1.2.3.pom.sha1</a>                    2017-03-31 19:27        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>

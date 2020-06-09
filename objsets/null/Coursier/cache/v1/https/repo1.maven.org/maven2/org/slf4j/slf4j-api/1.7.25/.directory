@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: org/slf4j/slf4j-api/1.7.25</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>org/slf4j/slf4j-api/1.7.25</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="slf4j-api-1.7.25-javadoc.jar" title="slf4j-api-1.7.25-javadoc.jar">slf4j-api-1.7.25-javadoc.jar</a>                      2017-03-16 16:36    248922      
+<a href="slf4j-api-1.7.25-javadoc.jar.asc" title="slf4j-api-1.7.25-javadoc.jar.asc">slf4j-api-1.7.25-javadoc.jar.asc</a>                  2017-03-16 16:36       455      
+<a href="slf4j-api-1.7.25-javadoc.jar.md5" title="slf4j-api-1.7.25-javadoc.jar.md5">slf4j-api-1.7.25-javadoc.jar.md5</a>                  2017-03-16 16:36        32      
+<a href="slf4j-api-1.7.25-javadoc.jar.sha1" title="slf4j-api-1.7.25-javadoc.jar.sha1">slf4j-api-1.7.25-javadoc.jar.sha1</a>                 2017-03-16 16:36        40      
+<a href="slf4j-api-1.7.25-sources.jar" title="slf4j-api-1.7.25-sources.jar">slf4j-api-1.7.25-sources.jar</a>                      2017-03-16 16:36     55539      
+<a href="slf4j-api-1.7.25-sources.jar.asc" title="slf4j-api-1.7.25-sources.jar.asc">slf4j-api-1.7.25-sources.jar.asc</a>                  2017-03-16 16:36       455      
+<a href="slf4j-api-1.7.25-sources.jar.md5" title="slf4j-api-1.7.25-sources.jar.md5">slf4j-api-1.7.25-sources.jar.md5</a>                  2017-03-16 16:36        32      
+<a href="slf4j-api-1.7.25-sources.jar.sha1" title="slf4j-api-1.7.25-sources.jar.sha1">slf4j-api-1.7.25-sources.jar.sha1</a>                 2017-03-16 16:36        40      
+<a href="slf4j-api-1.7.25-tests.jar" title="slf4j-api-1.7.25-tests.jar">slf4j-api-1.7.25-tests.jar</a>                        2017-03-16 16:36     32616      
+<a href="slf4j-api-1.7.25-tests.jar.asc" title="slf4j-api-1.7.25-tests.jar.asc">slf4j-api-1.7.25-tests.jar.asc</a>                    2017-03-16 16:36       455      
+<a href="slf4j-api-1.7.25-tests.jar.md5" title="slf4j-api-1.7.25-tests.jar.md5">slf4j-api-1.7.25-tests.jar.md5</a>                    2017-03-16 16:36        32      
+<a href="slf4j-api-1.7.25-tests.jar.sha1" title="slf4j-api-1.7.25-tests.jar.sha1">slf4j-api-1.7.25-tests.jar.sha1</a>                   2017-03-16 16:36        40      
+<a href="slf4j-api-1.7.25.jar" title="slf4j-api-1.7.25.jar">slf4j-api-1.7.25.jar</a>                              2017-03-16 16:36     41203      
+<a href="slf4j-api-1.7.25.jar.asc" title="slf4j-api-1.7.25.jar.asc">slf4j-api-1.7.25.jar.asc</a>                          2017-03-16 16:36       455      
+<a href="slf4j-api-1.7.25.jar.md5" title="slf4j-api-1.7.25.jar.md5">slf4j-api-1.7.25.jar.md5</a>                          2017-03-16 16:36        32      
+<a href="slf4j-api-1.7.25.jar.sha1" title="slf4j-api-1.7.25.jar.sha1">slf4j-api-1.7.25.jar.sha1</a>                         2017-03-16 16:36        40      
+<a href="slf4j-api-1.7.25.pom" title="slf4j-api-1.7.25.pom">slf4j-api-1.7.25.pom</a>                              2017-03-16 16:36      3833      
+<a href="slf4j-api-1.7.25.pom.asc" title="slf4j-api-1.7.25.pom.asc">slf4j-api-1.7.25.pom.asc</a>                          2017-03-16 16:36       455      
+<a href="slf4j-api-1.7.25.pom.md5" title="slf4j-api-1.7.25.pom.md5">slf4j-api-1.7.25.pom.md5</a>                          2017-03-16 16:36        32      
+<a href="slf4j-api-1.7.25.pom.sha1" title="slf4j-api-1.7.25.pom.sha1">slf4j-api-1.7.25.pom.sha1</a>                         2017-03-16 16:36        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>

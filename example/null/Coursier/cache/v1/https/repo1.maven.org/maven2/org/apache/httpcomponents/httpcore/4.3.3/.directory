@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: org/apache/httpcomponents/httpcore/4.3.3</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>org/apache/httpcomponents/httpcore/4.3.3</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="httpcore-4.3.3-javadoc.jar" title="httpcore-4.3.3-javadoc.jar">httpcore-4.3.3-javadoc.jar</a>                        2014-10-18 11:51   1444405      
+<a href="httpcore-4.3.3-javadoc.jar.asc" title="httpcore-4.3.3-javadoc.jar.asc">httpcore-4.3.3-javadoc.jar.asc</a>                    2014-10-18 11:51       181      
+<a href="httpcore-4.3.3-javadoc.jar.asc.md5" title="httpcore-4.3.3-javadoc.jar.asc.md5">httpcore-4.3.3-javadoc.jar.asc.md5</a>                2014-10-18 11:51        32      
+<a href="httpcore-4.3.3-javadoc.jar.asc.sha1" title="httpcore-4.3.3-javadoc.jar.asc.sha1">httpcore-4.3.3-javadoc.jar.asc.sha1</a>               2014-10-18 11:51        40      
+<a href="httpcore-4.3.3-javadoc.jar.md5" title="httpcore-4.3.3-javadoc.jar.md5">httpcore-4.3.3-javadoc.jar.md5</a>                    2014-10-18 11:51        32      
+<a href="httpcore-4.3.3-javadoc.jar.sha1" title="httpcore-4.3.3-javadoc.jar.sha1">httpcore-4.3.3-javadoc.jar.sha1</a>                   2014-10-18 11:51        40      
+<a href="httpcore-4.3.3-sources.jar" title="httpcore-4.3.3-sources.jar">httpcore-4.3.3-sources.jar</a>                        2014-10-18 11:51    377206      
+<a href="httpcore-4.3.3-sources.jar.asc" title="httpcore-4.3.3-sources.jar.asc">httpcore-4.3.3-sources.jar.asc</a>                    2014-10-18 11:51       181      
+<a href="httpcore-4.3.3-sources.jar.asc.md5" title="httpcore-4.3.3-sources.jar.asc.md5">httpcore-4.3.3-sources.jar.asc.md5</a>                2014-10-18 11:51        32      
+<a href="httpcore-4.3.3-sources.jar.asc.sha1" title="httpcore-4.3.3-sources.jar.asc.sha1">httpcore-4.3.3-sources.jar.asc.sha1</a>               2014-10-18 11:51        40      
+<a href="httpcore-4.3.3-sources.jar.md5" title="httpcore-4.3.3-sources.jar.md5">httpcore-4.3.3-sources.jar.md5</a>                    2014-10-18 11:51        32      
+<a href="httpcore-4.3.3-sources.jar.sha1" title="httpcore-4.3.3-sources.jar.sha1">httpcore-4.3.3-sources.jar.sha1</a>                   2014-10-18 11:51        40      
+<a href="httpcore-4.3.3.jar" title="httpcore-4.3.3.jar">httpcore-4.3.3.jar</a>                                2014-10-18 11:51    282793      
+<a href="httpcore-4.3.3.jar.asc" title="httpcore-4.3.3.jar.asc">httpcore-4.3.3.jar.asc</a>                            2014-10-18 11:51       181      
+<a href="httpcore-4.3.3.jar.asc.md5" title="httpcore-4.3.3.jar.asc.md5">httpcore-4.3.3.jar.asc.md5</a>                        2014-10-18 11:51        32      
+<a href="httpcore-4.3.3.jar.asc.sha1" title="httpcore-4.3.3.jar.asc.sha1">httpcore-4.3.3.jar.asc.sha1</a>                       2014-10-18 11:51        40      
+<a href="httpcore-4.3.3.jar.md5" title="httpcore-4.3.3.jar.md5">httpcore-4.3.3.jar.md5</a>                            2014-10-18 11:51        32      
+<a href="httpcore-4.3.3.jar.sha1" title="httpcore-4.3.3.jar.sha1">httpcore-4.3.3.jar.sha1</a>                           2014-10-18 11:51        40      
+<a href="httpcore-4.3.3.pom" title="httpcore-4.3.3.pom">httpcore-4.3.3.pom</a>                                2014-10-18 11:51      4597      
+<a href="httpcore-4.3.3.pom.asc" title="httpcore-4.3.3.pom.asc">httpcore-4.3.3.pom.asc</a>                            2014-10-18 11:51       181      
+<a href="httpcore-4.3.3.pom.asc.md5" title="httpcore-4.3.3.pom.asc.md5">httpcore-4.3.3.pom.asc.md5</a>                        2014-10-18 11:51        32      
+<a href="httpcore-4.3.3.pom.asc.sha1" title="httpcore-4.3.3.pom.asc.sha1">httpcore-4.3.3.pom.asc.sha1</a>                       2014-10-18 11:51        40      
+<a href="httpcore-4.3.3.pom.md5" title="httpcore-4.3.3.pom.md5">httpcore-4.3.3.pom.md5</a>                            2014-10-18 11:51        32      
+<a href="httpcore-4.3.3.pom.sha1" title="httpcore-4.3.3.pom.sha1">httpcore-4.3.3.pom.sha1</a>                           2014-10-18 11:51        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>

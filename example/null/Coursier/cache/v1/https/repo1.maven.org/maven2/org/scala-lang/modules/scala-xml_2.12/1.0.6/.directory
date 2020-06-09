@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: org/scala-lang/modules/scala-xml_2.12/1.0.6</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>org/scala-lang/modules/scala-xml_2.12/1.0.6</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="scala-xml_2.12-1.0.6-javadoc.jar" title="scala-xml_2.12-1.0.6-javadoc.jar">scala-xml_2.12-1.0.6-javadoc.jar</a>                  2016-11-01 14:21   1889415      
+<a href="scala-xml_2.12-1.0.6-javadoc.jar.asc" title="scala-xml_2.12-1.0.6-javadoc.jar.asc">scala-xml_2.12-1.0.6-javadoc.jar.asc</a>              2016-11-01 14:21       475      
+<a href="scala-xml_2.12-1.0.6-javadoc.jar.asc.md5" title="scala-xml_2.12-1.0.6-javadoc.jar.asc.md5">scala-xml_2.12-1.0.6-javadoc.jar.asc.md5</a>          2016-11-01 14:21        32      
+<a href="scala-xml_2.12-1.0.6-javadoc.jar.asc.sha1" title="scala-xml_2.12-1.0.6-javadoc.jar.asc.sha1">scala-xml_2.12-1.0.6-javadoc.jar.asc.sha1</a>         2016-11-01 14:21        40      
+<a href="scala-xml_2.12-1.0.6-javadoc.jar.md5" title="scala-xml_2.12-1.0.6-javadoc.jar.md5">scala-xml_2.12-1.0.6-javadoc.jar.md5</a>              2016-11-01 14:21        32      
+<a href="scala-xml_2.12-1.0.6-javadoc.jar.sha1" title="scala-xml_2.12-1.0.6-javadoc.jar.sha1">scala-xml_2.12-1.0.6-javadoc.jar.sha1</a>             2016-11-01 14:21        40      
+<a href="scala-xml_2.12-1.0.6-sources.jar" title="scala-xml_2.12-1.0.6-sources.jar">scala-xml_2.12-1.0.6-sources.jar</a>                  2016-11-01 14:21    109199      
+<a href="scala-xml_2.12-1.0.6-sources.jar.asc" title="scala-xml_2.12-1.0.6-sources.jar.asc">scala-xml_2.12-1.0.6-sources.jar.asc</a>              2016-11-01 14:21       475      
+<a href="scala-xml_2.12-1.0.6-sources.jar.asc.md5" title="scala-xml_2.12-1.0.6-sources.jar.asc.md5">scala-xml_2.12-1.0.6-sources.jar.asc.md5</a>          2016-11-01 14:21        32      
+<a href="scala-xml_2.12-1.0.6-sources.jar.asc.sha1" title="scala-xml_2.12-1.0.6-sources.jar.asc.sha1">scala-xml_2.12-1.0.6-sources.jar.asc.sha1</a>         2016-11-01 14:21        40      
+<a href="scala-xml_2.12-1.0.6-sources.jar.md5" title="scala-xml_2.12-1.0.6-sources.jar.md5">scala-xml_2.12-1.0.6-sources.jar.md5</a>              2016-11-01 14:21        32      
+<a href="scala-xml_2.12-1.0.6-sources.jar.sha1" title="scala-xml_2.12-1.0.6-sources.jar.sha1">scala-xml_2.12-1.0.6-sources.jar.sha1</a>             2016-11-01 14:21        40      
+<a href="scala-xml_2.12-1.0.6.jar" title="scala-xml_2.12-1.0.6.jar">scala-xml_2.12-1.0.6.jar</a>                          2016-11-01 14:21    547860      
+<a href="scala-xml_2.12-1.0.6.jar.asc" title="scala-xml_2.12-1.0.6.jar.asc">scala-xml_2.12-1.0.6.jar.asc</a>                      2016-11-01 14:21       475      
+<a href="scala-xml_2.12-1.0.6.jar.asc.md5" title="scala-xml_2.12-1.0.6.jar.asc.md5">scala-xml_2.12-1.0.6.jar.asc.md5</a>                  2016-11-01 14:21        32      
+<a href="scala-xml_2.12-1.0.6.jar.asc.sha1" title="scala-xml_2.12-1.0.6.jar.asc.sha1">scala-xml_2.12-1.0.6.jar.asc.sha1</a>                 2016-11-01 14:21        40      
+<a href="scala-xml_2.12-1.0.6.jar.md5" title="scala-xml_2.12-1.0.6.jar.md5">scala-xml_2.12-1.0.6.jar.md5</a>                      2016-11-01 14:21        32      
+<a href="scala-xml_2.12-1.0.6.jar.sha1" title="scala-xml_2.12-1.0.6.jar.sha1">scala-xml_2.12-1.0.6.jar.sha1</a>                     2016-11-01 14:21        40      
+<a href="scala-xml_2.12-1.0.6.pom" title="scala-xml_2.12-1.0.6.pom">scala-xml_2.12-1.0.6.pom</a>                          2016-11-01 14:21      2518      
+<a href="scala-xml_2.12-1.0.6.pom.asc" title="scala-xml_2.12-1.0.6.pom.asc">scala-xml_2.12-1.0.6.pom.asc</a>                      2016-11-01 14:21       475      
+<a href="scala-xml_2.12-1.0.6.pom.asc.md5" title="scala-xml_2.12-1.0.6.pom.asc.md5">scala-xml_2.12-1.0.6.pom.asc.md5</a>                  2016-11-01 14:21        32      
+<a href="scala-xml_2.12-1.0.6.pom.asc.sha1" title="scala-xml_2.12-1.0.6.pom.asc.sha1">scala-xml_2.12-1.0.6.pom.asc.sha1</a>                 2016-11-01 14:21        40      
+<a href="scala-xml_2.12-1.0.6.pom.md5" title="scala-xml_2.12-1.0.6.pom.md5">scala-xml_2.12-1.0.6.pom.md5</a>                      2016-11-01 14:21        32      
+<a href="scala-xml_2.12-1.0.6.pom.sha1" title="scala-xml_2.12-1.0.6.pom.sha1">scala-xml_2.12-1.0.6.pom.sha1</a>                     2016-11-01 14:21        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>

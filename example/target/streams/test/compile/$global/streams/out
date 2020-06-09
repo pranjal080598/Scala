@@ -1,0 +1,43 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\example\src\test\scala\example\ListsSuite.scala:3:12: object junit is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.junit._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\example\src\test\scala\example\ListsSuite.scala:4:12: object junit is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.junit.Assert.assertEquals[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\example\src\test\scala\example\ListsSuite.scala:23:4: not found: type Test[0m
+[0m[[0m[31merror[0m] [0m[0m  @Test def `one plus one is two (0pts)`: Unit = {[0m
+[0m[[0m[31merror[0m] [0m[0m   ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\example\src\test\scala\example\ListsSuite.scala:27:4: not found: type Test[0m
+[0m[[0m[31merror[0m] [0m[0m  @Test def `one plus one is three (0pts)?`: Unit = {[0m
+[0m[[0m[31merror[0m] [0m[0m   ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\example\src\test\scala\example\ListsSuite.scala:52:4: not found: type Test[0m
+[0m[[0m[31merror[0m] [0m[0m  @Test def `details why one plus one is not three (0pts)`: Unit = {[0m
+[0m[[0m[31merror[0m] [0m[0m   ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\example\src\test\scala\example\ListsSuite.scala:53:5: not found: value Assert[0m
+[0m[[0m[31merror[0m] [0m[0m    Assert.assertEquals(3, 1 + 1) // Fix me, please![0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\example\src\test\scala\example\ListsSuite.scala:63:5: not found: type Test[0m
+[0m[[0m[31merror[0m] [0m[0m   @Test def `intNotZero throws an exception if its argument is 0`: Unit = {[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\example\src\test\scala\example\ListsSuite.scala:66:8: not found: value Assert[0m
+[0m[[0m[31merror[0m] [0m[0m       Assert.fail("No exception has been thrown")[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\example\src\test\scala\example\ListsSuite.scala:96:4: not found: type Test[0m
+[0m[[0m[31merror[0m] [0m[0m  @Test def `sum of a few numbers (10pts)`: Unit = {[0m
+[0m[[0m[31merror[0m] [0m[0m   ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\example\src\test\scala\example\ListsSuite.scala:97:12: not found: value sum[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(sum(List(1,2,0)) == 3)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\example\src\test\scala\example\ListsSuite.scala:100:4: not found: type Test[0m
+[0m[[0m[31merror[0m] [0m[0m  @Test def `max of a few numbers (10pts)`: Unit = {[0m
+[0m[[0m[31merror[0m] [0m[0m   ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\example\src\test\scala\example\ListsSuite.scala:101:12: not found: value max[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(max(List(3, 7, 2)) == 7)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\example\src\test\scala\example\ListsSuite.scala:106:45: object junit is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0m  @Rule def individualTestTimeout = new org.junit.rules.Timeout(1000)[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\example\src\test\scala\example\ListsSuite.scala:106:4: not found: type Rule[0m
+[0m[[0m[31merror[0m] [0m[0m  @Rule def individualTestTimeout = new org.junit.rules.Timeout(1000)[0m
+[0m[[0m[31merror[0m] [0m[0m   ^[0m
+[0m[[0m[31merror[0m] [0m[0m14 errors found[0m

@@ -1,0 +1,8 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\HP\IdeaProjects\recfun\src\main\scala\recfun\RecFun.scala:52:45: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `check`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    def check(money: Int, coins: List[Int]) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\recfun\src\main\scala\recfun\RecFun.scala:67:5: not found: value totalAmount[0m
+[0m[[0m[31merror[0m] [0m[0m    totalAmount[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

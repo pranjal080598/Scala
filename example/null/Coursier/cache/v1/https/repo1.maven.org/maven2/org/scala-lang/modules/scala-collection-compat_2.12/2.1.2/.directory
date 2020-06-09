@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: org/scala-lang/modules/scala-collection-compat_2.12/2.1.2</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>org/scala-lang/modules/scala-collection-compat_2.12/2.1.2</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="scala-collection-compat_2.12-2.1.2-javadoc.jar" title="scala-collection-compat_2.12-2.1.2-javadoc.jar">scala-collection-compat_2.12-2.1.2-javadoc.ja...</a>  2019-08-06 03:29   1426058      
+<a href="scala-collection-compat_2.12-2.1.2-javadoc.jar.asc" title="scala-collection-compat_2.12-2.1.2-javadoc.jar.asc">scala-collection-compat_2.12-2.1.2-javadoc.ja...</a>  2019-08-06 03:29       475      
+<a href="scala-collection-compat_2.12-2.1.2-javadoc.jar.asc.md5" title="scala-collection-compat_2.12-2.1.2-javadoc.jar.asc.md5">scala-collection-compat_2.12-2.1.2-javadoc.ja...</a>  2019-08-06 03:29        32      
+<a href="scala-collection-compat_2.12-2.1.2-javadoc.jar.asc.sha1" title="scala-collection-compat_2.12-2.1.2-javadoc.jar.asc.sha1">scala-collection-compat_2.12-2.1.2-javadoc.ja...</a>  2019-08-06 03:29        40      
+<a href="scala-collection-compat_2.12-2.1.2-javadoc.jar.md5" title="scala-collection-compat_2.12-2.1.2-javadoc.jar.md5">scala-collection-compat_2.12-2.1.2-javadoc.ja...</a>  2019-08-06 03:29        32      
+<a href="scala-collection-compat_2.12-2.1.2-javadoc.jar.sha1" title="scala-collection-compat_2.12-2.1.2-javadoc.jar.sha1">scala-collection-compat_2.12-2.1.2-javadoc.ja...</a>  2019-08-06 03:29        40      
+<a href="scala-collection-compat_2.12-2.1.2-sources.jar" title="scala-collection-compat_2.12-2.1.2-sources.jar">scala-collection-compat_2.12-2.1.2-sources.ja...</a>  2019-08-06 03:29      8653      
+<a href="scala-collection-compat_2.12-2.1.2-sources.jar.asc" title="scala-collection-compat_2.12-2.1.2-sources.jar.asc">scala-collection-compat_2.12-2.1.2-sources.ja...</a>  2019-08-06 03:29       475      
+<a href="scala-collection-compat_2.12-2.1.2-sources.jar.asc.md5" title="scala-collection-compat_2.12-2.1.2-sources.jar.asc.md5">scala-collection-compat_2.12-2.1.2-sources.ja...</a>  2019-08-06 03:29        32      
+<a href="scala-collection-compat_2.12-2.1.2-sources.jar.asc.sha1" title="scala-collection-compat_2.12-2.1.2-sources.jar.asc.sha1">scala-collection-compat_2.12-2.1.2-sources.ja...</a>  2019-08-06 03:29        40      
+<a href="scala-collection-compat_2.12-2.1.2-sources.jar.md5" title="scala-collection-compat_2.12-2.1.2-sources.jar.md5">scala-collection-compat_2.12-2.1.2-sources.ja...</a>  2019-08-06 03:29        32      
+<a href="scala-collection-compat_2.12-2.1.2-sources.jar.sha1" title="scala-collection-compat_2.12-2.1.2-sources.jar.sha1">scala-collection-compat_2.12-2.1.2-sources.ja...</a>  2019-08-06 03:29        40      
+<a href="scala-collection-compat_2.12-2.1.2.jar" title="scala-collection-compat_2.12-2.1.2.jar">scala-collection-compat_2.12-2.1.2.jar</a>            2019-08-06 03:29    116414      
+<a href="scala-collection-compat_2.12-2.1.2.jar.asc" title="scala-collection-compat_2.12-2.1.2.jar.asc">scala-collection-compat_2.12-2.1.2.jar.asc</a>        2019-08-06 03:29       475      
+<a href="scala-collection-compat_2.12-2.1.2.jar.asc.md5" title="scala-collection-compat_2.12-2.1.2.jar.asc.md5">scala-collection-compat_2.12-2.1.2.jar.asc.md...</a>  2019-08-06 03:29        32      
+<a href="scala-collection-compat_2.12-2.1.2.jar.asc.sha1" title="scala-collection-compat_2.12-2.1.2.jar.asc.sha1">scala-collection-compat_2.12-2.1.2.jar.asc.sh...</a>  2019-08-06 03:29        40      
+<a href="scala-collection-compat_2.12-2.1.2.jar.md5" title="scala-collection-compat_2.12-2.1.2.jar.md5">scala-collection-compat_2.12-2.1.2.jar.md5</a>        2019-08-06 03:29        32      
+<a href="scala-collection-compat_2.12-2.1.2.jar.sha1" title="scala-collection-compat_2.12-2.1.2.jar.sha1">scala-collection-compat_2.12-2.1.2.jar.sha1</a>       2019-08-06 03:29        40      
+<a href="scala-collection-compat_2.12-2.1.2.pom" title="scala-collection-compat_2.12-2.1.2.pom">scala-collection-compat_2.12-2.1.2.pom</a>            2019-08-06 03:29      1992      
+<a href="scala-collection-compat_2.12-2.1.2.pom.asc" title="scala-collection-compat_2.12-2.1.2.pom.asc">scala-collection-compat_2.12-2.1.2.pom.asc</a>        2019-08-06 03:29       475      
+<a href="scala-collection-compat_2.12-2.1.2.pom.asc.md5" title="scala-collection-compat_2.12-2.1.2.pom.asc.md5">scala-collection-compat_2.12-2.1.2.pom.asc.md...</a>  2019-08-06 03:29        32      
+<a href="scala-collection-compat_2.12-2.1.2.pom.asc.sha1" title="scala-collection-compat_2.12-2.1.2.pom.asc.sha1">scala-collection-compat_2.12-2.1.2.pom.asc.sh...</a>  2019-08-06 03:29        40      
+<a href="scala-collection-compat_2.12-2.1.2.pom.md5" title="scala-collection-compat_2.12-2.1.2.pom.md5">scala-collection-compat_2.12-2.1.2.pom.md5</a>        2019-08-06 03:29        32      
+<a href="scala-collection-compat_2.12-2.1.2.pom.sha1" title="scala-collection-compat_2.12-2.1.2.pom.sha1">scala-collection-compat_2.12-2.1.2.pom.sha1</a>       2019-08-06 03:29        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>

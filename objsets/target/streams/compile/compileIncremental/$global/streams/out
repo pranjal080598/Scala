@@ -1,0 +1,91 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(C:\Users\HP\IdeaProjects\objsets\src\main\scala\objsets\TweetSet.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(objsets.NonEmpty, objsets.Cons, objsets.GoogleVsApple, objsets.Empty, objsets.TweetList, objsets.TweetSet, objsets.Tweet, objsets.Main, objsets.Nil)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(objsets.NonEmpty, objsets.Cons, objsets.GoogleVsApple, objsets.Empty, objsets.TweetList, objsets.TweetSet, objsets.Tweet, objsets.Main, objsets.Nil)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(C:\Users\HP\IdeaProjects\objsets\src\main\scala\objsets\TweetSet.scala)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to C:\Users\HP\IdeaProjects\objsets\target\scala-2.13\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 14376ec for Scala compiler version 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-language:implicitConversions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Program Files (x86)\Java\jre1.8.0_251\lib\resources.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\rt.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\jsse.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\jce.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\charsets.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\jfr.jar;C:\Program Files (x86)\Java\jre1.8.0_251\classes;C:\Users\HP\IdeaProjects\objsets\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\HP\IdeaProjects\objsets\target\scala-2.13\classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.726146 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from objsets.NonEmpty...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(objsets.NonEmpty)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(objsets.NonEmpty)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(objsets.NonEmpty,ModifiedNames(changes = UsedName(descendingByRetweet,[Default]), UsedName(isEmpty,[Default]))) invalidates 1 classes due to The objsets.NonEmpty has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(descendingByRetweet,[Default]), UsedName(isEmpty,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(objsets.NonEmpty)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from objsets.TweetSet...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(objsets.TweetSet)[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding objsets.Empty by objsets.TweetSet[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding objsets.NonEmpty by objsets.TweetSet[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(objsets.TweetSet, objsets.Empty, objsets.NonEmpty)[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of objsets.TweetSetInterface. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following modified names cause invalidation of objsets.TweetReader: Set(UsedName(isEmpty,[Default]))[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following modified names cause invalidation of objsets.TweetReader: Set(UsedName(isEmpty,[Default]))[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(objsets.TweetSet,ModifiedNames(changes = UsedName(descendingByRetweet,[Default]), UsedName(isEmpty,[Default]))) invalidates 4 classes due to The objsets.TweetSet has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(descendingByRetweet,[Default]), UsedName(isEmpty,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(objsets.TweetSet, objsets.Empty, objsets.NonEmpty)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(objsets.TweetReader)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from objsets.Empty...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(objsets.Empty)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(objsets.Empty)[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following modified names cause invalidation of objsets.TweetReader: Set(UsedName(isEmpty,[Default]))[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(objsets.Empty,ModifiedNames(changes = UsedName(descendingByRetweet,[Default]), UsedName(isEmpty,[Default]))) invalidates 2 classes due to The objsets.Empty has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(descendingByRetweet,[Default]), UsedName(isEmpty,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(objsets.Empty)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(objsets.TweetReader)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set(objsets.TweetReader)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(objsets.TweetReader)[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding objsets.Tweet by objsets.TweetReader[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding objsets.TweetSetInterface by objsets.Tweet[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding objsets.TweetReader.ParseTweets by objsets.Tweet[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding objsets.GoogleVsApple by objsets.TweetReader[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set(objsets.TweetReader)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to C:\Users\HP\IdeaProjects\objsets\target\scala-2.13\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler ca4c6a for Scala compiler version 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-language:implicitConversions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Program Files (x86)\Java\jre1.8.0_251\lib\resources.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\rt.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\jsse.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\jce.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\charsets.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\jfr.jar;C:\Program Files (x86)\Java\jre1.8.0_251\classes;C:\Users\HP\IdeaProjects\objsets\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\HP\IdeaProjects\objsets\target\scala-2.13\classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.5157542 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m

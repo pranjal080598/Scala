@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: ch/epfl/scala/scalafix-core_2.12/0.9.7</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>ch/epfl/scala/scalafix-core_2.12/0.9.7</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="scalafix-core_2.12-0.9.7-javadoc.jar" title="scalafix-core_2.12-0.9.7-javadoc.jar">scalafix-core_2.12-0.9.7-javadoc.jar</a>              2019-09-12 11:55   2924211      
+<a href="scalafix-core_2.12-0.9.7-javadoc.jar.asc" title="scalafix-core_2.12-0.9.7-javadoc.jar.asc">scalafix-core_2.12-0.9.7-javadoc.jar.asc</a>          2019-09-12 11:55       475      
+<a href="scalafix-core_2.12-0.9.7-javadoc.jar.asc.md5" title="scalafix-core_2.12-0.9.7-javadoc.jar.asc.md5">scalafix-core_2.12-0.9.7-javadoc.jar.asc.md5</a>      2019-09-12 11:55        32      
+<a href="scalafix-core_2.12-0.9.7-javadoc.jar.asc.sha1" title="scalafix-core_2.12-0.9.7-javadoc.jar.asc.sha1">scalafix-core_2.12-0.9.7-javadoc.jar.asc.sha1</a>     2019-09-12 11:55        40      
+<a href="scalafix-core_2.12-0.9.7-javadoc.jar.md5" title="scalafix-core_2.12-0.9.7-javadoc.jar.md5">scalafix-core_2.12-0.9.7-javadoc.jar.md5</a>          2019-09-12 11:55        32      
+<a href="scalafix-core_2.12-0.9.7-javadoc.jar.sha1" title="scalafix-core_2.12-0.9.7-javadoc.jar.sha1">scalafix-core_2.12-0.9.7-javadoc.jar.sha1</a>         2019-09-12 11:55        40      
+<a href="scalafix-core_2.12-0.9.7-sources.jar" title="scalafix-core_2.12-0.9.7-sources.jar">scalafix-core_2.12-0.9.7-sources.jar</a>              2019-09-12 11:55    107037      
+<a href="scalafix-core_2.12-0.9.7-sources.jar.asc" title="scalafix-core_2.12-0.9.7-sources.jar.asc">scalafix-core_2.12-0.9.7-sources.jar.asc</a>          2019-09-12 11:55       475      
+<a href="scalafix-core_2.12-0.9.7-sources.jar.asc.md5" title="scalafix-core_2.12-0.9.7-sources.jar.asc.md5">scalafix-core_2.12-0.9.7-sources.jar.asc.md5</a>      2019-09-12 11:55        32      
+<a href="scalafix-core_2.12-0.9.7-sources.jar.asc.sha1" title="scalafix-core_2.12-0.9.7-sources.jar.asc.sha1">scalafix-core_2.12-0.9.7-sources.jar.asc.sha1</a>     2019-09-12 11:55        40      
+<a href="scalafix-core_2.12-0.9.7-sources.jar.md5" title="scalafix-core_2.12-0.9.7-sources.jar.md5">scalafix-core_2.12-0.9.7-sources.jar.md5</a>          2019-09-12 11:55        32      
+<a href="scalafix-core_2.12-0.9.7-sources.jar.sha1" title="scalafix-core_2.12-0.9.7-sources.jar.sha1">scalafix-core_2.12-0.9.7-sources.jar.sha1</a>         2019-09-12 11:55        40      
+<a href="scalafix-core_2.12-0.9.7.jar" title="scalafix-core_2.12-0.9.7.jar">scalafix-core_2.12-0.9.7.jar</a>                      2019-09-12 11:55   1087160      
+<a href="scalafix-core_2.12-0.9.7.jar.asc" title="scalafix-core_2.12-0.9.7.jar.asc">scalafix-core_2.12-0.9.7.jar.asc</a>                  2019-09-12 11:55       475      
+<a href="scalafix-core_2.12-0.9.7.jar.asc.md5" title="scalafix-core_2.12-0.9.7.jar.asc.md5">scalafix-core_2.12-0.9.7.jar.asc.md5</a>              2019-09-12 11:55        32      
+<a href="scalafix-core_2.12-0.9.7.jar.asc.sha1" title="scalafix-core_2.12-0.9.7.jar.asc.sha1">scalafix-core_2.12-0.9.7.jar.asc.sha1</a>             2019-09-12 11:55        40      
+<a href="scalafix-core_2.12-0.9.7.jar.md5" title="scalafix-core_2.12-0.9.7.jar.md5">scalafix-core_2.12-0.9.7.jar.md5</a>                  2019-09-12 11:55        32      
+<a href="scalafix-core_2.12-0.9.7.jar.sha1" title="scalafix-core_2.12-0.9.7.jar.sha1">scalafix-core_2.12-0.9.7.jar.sha1</a>                 2019-09-12 11:55        40      
+<a href="scalafix-core_2.12-0.9.7.pom" title="scalafix-core_2.12-0.9.7.pom">scalafix-core_2.12-0.9.7.pom</a>                      2019-09-12 11:55      3892      
+<a href="scalafix-core_2.12-0.9.7.pom.asc" title="scalafix-core_2.12-0.9.7.pom.asc">scalafix-core_2.12-0.9.7.pom.asc</a>                  2019-09-12 11:55       475      
+<a href="scalafix-core_2.12-0.9.7.pom.asc.md5" title="scalafix-core_2.12-0.9.7.pom.asc.md5">scalafix-core_2.12-0.9.7.pom.asc.md5</a>              2019-09-12 11:55        32      
+<a href="scalafix-core_2.12-0.9.7.pom.asc.sha1" title="scalafix-core_2.12-0.9.7.pom.asc.sha1">scalafix-core_2.12-0.9.7.pom.asc.sha1</a>             2019-09-12 11:55        40      
+<a href="scalafix-core_2.12-0.9.7.pom.md5" title="scalafix-core_2.12-0.9.7.pom.md5">scalafix-core_2.12-0.9.7.pom.md5</a>                  2019-09-12 11:55        32      
+<a href="scalafix-core_2.12-0.9.7.pom.sha1" title="scalafix-core_2.12-0.9.7.pom.sha1">scalafix-core_2.12-0.9.7.pom.sha1</a>                 2019-09-12 11:55        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>

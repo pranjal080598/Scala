@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\patmat\src\main\scala\patmat\Huffman.scala:68:11: missing argument list for method singleton in trait Huffman[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `singleton _` or `singleton(_)` instead of `singleton`.[0m
+[0m[[0m[31merror[0m] [0m[0m    until(singleton, combine)(makeOrderedLeafList(times(cs))).head[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\HP\IdeaProjects\patmat\src\main\scala\patmat\Huffman.scala:68:22: missing argument list for method combine in trait Huffman[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `combine _` or `combine(_)` instead of `combine`.[0m
+[0m[[0m[31merror[0m] [0m[0m    until(singleton, combine)(makeOrderedLeafList(times(cs))).head[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

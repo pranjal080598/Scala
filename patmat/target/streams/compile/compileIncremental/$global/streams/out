@@ -1,0 +1,44 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(C:\Users\HP\IdeaProjects\patmat\src\main\scala\patmat\Huffman.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(patmat.Leaf, patmat.Fork, patmat.CodeTree, patmat.Huffman)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(patmat.Leaf, patmat.Fork, patmat.CodeTree, patmat.Huffman)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(C:\Users\HP\IdeaProjects\patmat\src\main\scala\patmat\Huffman.scala)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to C:\Users\HP\IdeaProjects\patmat\target\scala-2.13\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.2[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.2[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 1322ae for Scala compiler version 2.13.2[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-language:implicitConversions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Program Files (x86)\Java\jre1.8.0_251\lib\resources.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\rt.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\jsse.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\jce.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\charsets.jar;C:\Program Files (x86)\Java\jre1.8.0_251\lib\jfr.jar;C:\Program Files (x86)\Java\jre1.8.0_251\classes;C:\Users\HP\IdeaProjects\patmat\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.2\scala-library-2.13.2.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\HP\IdeaProjects\patmat\target\scala-2.13\classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 3.3119449 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from patmat.Huffman...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(patmat.Huffman)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(patmat.Huffman)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(patmat.Huffman,ModifiedNames(changes = UsedName(codeBits,[Default]), UsedName(quickEncode,[Default]), UsedName(makeCodeTree,[Default]), UsedName(times,[Default]), UsedName(decode,[Default]), UsedName(singleton,[Default]), UsedName(secret,[Default]), UsedName(!=,[Default]), UsedName(ne,[Default]), UsedName(##,[Default]), UsedName(convert,[Default]), UsedName(combine,[Default]), UsedName(makeOrderedLeafList,[Default]), UsedName(frenchCode,[Default]), UsedName(mergeCodeTables,[Default]), UsedName(==,[Default]), UsedName(asInstanceOf,[Default]), UsedName($init$,[Default]), UsedName(createCodeTree,[Default]), UsedName(equals,[Default]), UsedName($isInstanceOf,[Default]), UsedName(Bit,[Default]), UsedName(notifyAll,[Default]), UsedName(weight,[Default]), UsedName(decodedSecret,[Default]), UsedName(isInstanceOf,[Default]), UsedName(until,[Default]), UsedName(finalize,[Default]), UsedName(string2Chars,[Default]), UsedName(decodeAcc,[Default]), UsedName(notify,[Default]), UsedName($asInstanceOf,[Default]), UsedName(toString,[Default]), UsedName(encodeAcc,[Default]), UsedName(chars,[Default]), UsedName(CodeTable,[Default]), UsedName(synchronized,[Default]), UsedName(hashCode,[Default]), UsedName(convertAcc,[Default]), UsedName(getClass,[Default]), UsedName(wait,[Default]), UsedName(encode,[Default]), UsedName(clone,[Default]), UsedName(Huffman,[Default]), UsedName(eq,[Default]))) invalidates 1 classes due to The patmat.Huffman has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(codeBits,[Default]), UsedName(quickEncode,[Default]), UsedName(makeCodeTree,[Default]), UsedName(times,[Default]), UsedName(decode,[Default]), UsedName(singleton,[Default]), UsedName(secret,[Default]), UsedName(!=,[Default]), UsedName(ne,[Default]), UsedName(##,[Default]), UsedName(convert,[Default]), UsedName(combine,[Default]), UsedName(makeOrderedLeafList,[Default]), UsedName(frenchCode,[Default]), UsedName(mergeCodeTables,[Default]), UsedName(==,[Default]), UsedName(asInstanceOf,[Default]), UsedName($init$,[Default]), UsedName(createCodeTree,[Default]), UsedName(equals,[Default]), UsedName($isInstanceOf,[Default]), UsedName(Bit,[Default]), UsedName(notifyAll,[Default]), UsedName(weight,[Default]), UsedName(decodedSecret,[Default]), UsedName(isInstanceOf,[Default]), UsedName(until,[Default]), UsedName(finalize,[Default]), UsedName(string2Chars,[Default]), UsedName(decodeAcc,[Default]), UsedName(notify,[Default]), UsedName($asInstanceOf,[Default]), UsedName(toString,[Default]), UsedName(encodeAcc,[Default]), UsedName(chars,[Default]), UsedName(CodeTable,[Default]), UsedName(synchronized,[Default]), UsedName(hashCode,[Default]), UsedName(convertAcc,[Default]), UsedName(getClass,[Default]), UsedName(wait,[Default]), UsedName(encode,[Default]), UsedName(clone,[Default]), UsedName(Huffman,[Default]), UsedName(eq,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(patmat.Huffman)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m

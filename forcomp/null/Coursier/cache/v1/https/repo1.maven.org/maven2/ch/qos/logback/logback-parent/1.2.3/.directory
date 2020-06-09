@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: ch/qos/logback/logback-parent/1.2.3</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>ch/qos/logback/logback-parent/1.2.3</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="logback-parent-1.2.3.pom" title="logback-parent-1.2.3.pom">logback-parent-1.2.3.pom</a>                          2017-03-31 19:26     17791      
+<a href="logback-parent-1.2.3.pom.asc" title="logback-parent-1.2.3.pom.asc">logback-parent-1.2.3.pom.asc</a>                      2017-03-31 19:26       455      
+<a href="logback-parent-1.2.3.pom.md5" title="logback-parent-1.2.3.pom.md5">logback-parent-1.2.3.pom.md5</a>                      2017-03-31 19:26        32      
+<a href="logback-parent-1.2.3.pom.sha1" title="logback-parent-1.2.3.pom.sha1">logback-parent-1.2.3.pom.sha1</a>                     2017-03-31 19:26        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>

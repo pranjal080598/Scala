@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: org/apache/httpcomponents/httpclient/4.3.6</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>org/apache/httpcomponents/httpclient/4.3.6</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="httpclient-4.3.6-javadoc.jar" title="httpclient-4.3.6-javadoc.jar">httpclient-4.3.6-javadoc.jar</a>                      2014-11-02 13:46   2160943      
+<a href="httpclient-4.3.6-javadoc.jar.asc" title="httpclient-4.3.6-javadoc.jar.asc">httpclient-4.3.6-javadoc.jar.asc</a>                  2014-11-02 13:46       181      
+<a href="httpclient-4.3.6-javadoc.jar.asc.md5" title="httpclient-4.3.6-javadoc.jar.asc.md5">httpclient-4.3.6-javadoc.jar.asc.md5</a>              2014-11-02 13:46        32      
+<a href="httpclient-4.3.6-javadoc.jar.asc.sha1" title="httpclient-4.3.6-javadoc.jar.asc.sha1">httpclient-4.3.6-javadoc.jar.asc.sha1</a>             2014-11-02 13:46        40      
+<a href="httpclient-4.3.6-javadoc.jar.md5" title="httpclient-4.3.6-javadoc.jar.md5">httpclient-4.3.6-javadoc.jar.md5</a>                  2014-11-02 13:46        32      
+<a href="httpclient-4.3.6-javadoc.jar.sha1" title="httpclient-4.3.6-javadoc.jar.sha1">httpclient-4.3.6-javadoc.jar.sha1</a>                 2014-11-02 13:46        40      
+<a href="httpclient-4.3.6-sources.jar" title="httpclient-4.3.6-sources.jar">httpclient-4.3.6-sources.jar</a>                      2014-11-02 13:46    656337      
+<a href="httpclient-4.3.6-sources.jar.asc" title="httpclient-4.3.6-sources.jar.asc">httpclient-4.3.6-sources.jar.asc</a>                  2014-11-02 13:46       181      
+<a href="httpclient-4.3.6-sources.jar.asc.md5" title="httpclient-4.3.6-sources.jar.asc.md5">httpclient-4.3.6-sources.jar.asc.md5</a>              2014-11-02 13:46        32      
+<a href="httpclient-4.3.6-sources.jar.asc.sha1" title="httpclient-4.3.6-sources.jar.asc.sha1">httpclient-4.3.6-sources.jar.asc.sha1</a>             2014-11-02 13:46        40      
+<a href="httpclient-4.3.6-sources.jar.md5" title="httpclient-4.3.6-sources.jar.md5">httpclient-4.3.6-sources.jar.md5</a>                  2014-11-02 13:46        32      
+<a href="httpclient-4.3.6-sources.jar.sha1" title="httpclient-4.3.6-sources.jar.sha1">httpclient-4.3.6-sources.jar.sha1</a>                 2014-11-02 13:46        40      
+<a href="httpclient-4.3.6-tests.jar" title="httpclient-4.3.6-tests.jar">httpclient-4.3.6-tests.jar</a>                        2014-11-02 13:46    420850      
+<a href="httpclient-4.3.6-tests.jar.asc" title="httpclient-4.3.6-tests.jar.asc">httpclient-4.3.6-tests.jar.asc</a>                    2014-11-02 13:46       181      
+<a href="httpclient-4.3.6-tests.jar.asc.md5" title="httpclient-4.3.6-tests.jar.asc.md5">httpclient-4.3.6-tests.jar.asc.md5</a>                2014-11-02 13:46        32      
+<a href="httpclient-4.3.6-tests.jar.asc.sha1" title="httpclient-4.3.6-tests.jar.asc.sha1">httpclient-4.3.6-tests.jar.asc.sha1</a>               2014-11-02 13:46        40      
+<a href="httpclient-4.3.6-tests.jar.md5" title="httpclient-4.3.6-tests.jar.md5">httpclient-4.3.6-tests.jar.md5</a>                    2014-11-02 13:46        32      
+<a href="httpclient-4.3.6-tests.jar.sha1" title="httpclient-4.3.6-tests.jar.sha1">httpclient-4.3.6-tests.jar.sha1</a>                   2014-11-02 13:46        40      
+<a href="httpclient-4.3.6.jar" title="httpclient-4.3.6.jar">httpclient-4.3.6.jar</a>                              2014-11-02 13:46    592008      
+<a href="httpclient-4.3.6.jar.asc" title="httpclient-4.3.6.jar.asc">httpclient-4.3.6.jar.asc</a>                          2014-11-02 13:46       181      
+<a href="httpclient-4.3.6.jar.asc.md5" title="httpclient-4.3.6.jar.asc.md5">httpclient-4.3.6.jar.asc.md5</a>                      2014-11-02 13:46        32      
+<a href="httpclient-4.3.6.jar.asc.sha1" title="httpclient-4.3.6.jar.asc.sha1">httpclient-4.3.6.jar.asc.sha1</a>                     2014-11-02 13:46        40      
+<a href="httpclient-4.3.6.jar.md5" title="httpclient-4.3.6.jar.md5">httpclient-4.3.6.jar.md5</a>                          2014-11-02 13:46        32      
+<a href="httpclient-4.3.6.jar.sha1" title="httpclient-4.3.6.jar.sha1">httpclient-4.3.6.jar.sha1</a>                         2014-11-02 13:46        40      
+<a href="httpclient-4.3.6.pom" title="httpclient-4.3.6.pom">httpclient-4.3.6.pom</a>                              2014-11-02 13:46      5209      
+<a href="httpclient-4.3.6.pom.asc" title="httpclient-4.3.6.pom.asc">httpclient-4.3.6.pom.asc</a>                          2014-11-02 13:46       181      
+<a href="httpclient-4.3.6.pom.asc.md5" title="httpclient-4.3.6.pom.asc.md5">httpclient-4.3.6.pom.asc.md5</a>                      2014-11-02 13:46        32      
+<a href="httpclient-4.3.6.pom.asc.sha1" title="httpclient-4.3.6.pom.asc.sha1">httpclient-4.3.6.pom.asc.sha1</a>                     2014-11-02 13:46        40      
+<a href="httpclient-4.3.6.pom.md5" title="httpclient-4.3.6.pom.md5">httpclient-4.3.6.pom.md5</a>                          2014-11-02 13:46        32      
+<a href="httpclient-4.3.6.pom.sha1" title="httpclient-4.3.6.pom.sha1">httpclient-4.3.6.pom.sha1</a>                         2014-11-02 13:46        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: org/sonatype/oss/oss-parent/5</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>org/sonatype/oss/oss-parent/5</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="oss-parent-5.pom" title="oss-parent-5.pom">oss-parent-5.pom</a>                                  2010-09-06 13:46      4082      
+<a href="oss-parent-5.pom.asc" title="oss-parent-5.pom.asc">oss-parent-5.pom.asc</a>                              2010-09-06 13:46       189      
+<a href="oss-parent-5.pom.asc.md5" title="oss-parent-5.pom.asc.md5">oss-parent-5.pom.asc.md5</a>                          2010-09-06 13:46        32      
+<a href="oss-parent-5.pom.asc.sha1" title="oss-parent-5.pom.asc.sha1">oss-parent-5.pom.asc.sha1</a>                         2010-09-06 13:46        40      
+<a href="oss-parent-5.pom.md5" title="oss-parent-5.pom.md5">oss-parent-5.pom.md5</a>                              2010-09-06 13:46        32      
+<a href="oss-parent-5.pom.sha1" title="oss-parent-5.pom.sha1">oss-parent-5.pom.sha1</a>                             2010-09-06 13:46        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>
